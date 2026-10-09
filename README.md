@@ -23,7 +23,7 @@ O app apresenta cartões no estilo de arrastar para o lado para aceitar ou recus
 
 ### Passo a Passo
 1. Clone este repositório para a sua máquina local:
-   git clone [https://github.com/SEU_USUARIO/rolezinho-hoje.git](https://github.com/SEU_USUARIO/rolezinho-hoje.git)
+   git clone [https://github.com/digoliva/rolezinho-hoje.git](https://github.com/digoliva/rolezinho-hoje.git)
 2. Abra o Android Studio.
 3. Selecione File > Open e escolha a pasta do projeto clonado.
 4. Aguarde o Gradle baixar as dependências e realizar a sincronização automática.
