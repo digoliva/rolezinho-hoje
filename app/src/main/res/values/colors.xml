@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Paleta Exata da Imagem -->
+    <color name="purple_dark">#2E005D</color>
+    <color name="purple_mid">#5C008B</color>
+    <color name="purple_light">#8E008B</color>
+    <color name="orange_main">#FF8300</color>
+    <color name="orange_accent">#FF6200</color>
+
+    <!-- Fundo e Superfícies -->
+    <color name="card_bg">#FFFFFF</color>
+
+    <!-- Textos -->
+    <color name="text_dark">#1A1A1A</color>
+    <color name="text_muted">#666666</color>
+    <color name="text_white">#FFFFFF</color>
+</resources>
